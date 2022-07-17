@@ -79,6 +79,9 @@ public class Employee {
 				//Credit card
 				Employee card=new Employee("sbi",989898999999l,(byte)817);
 				
+				
+				Employee card1=new Employee("union",989898999999l,(byte)917);
+				
 			
 			
 		}
